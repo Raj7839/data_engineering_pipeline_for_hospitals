@@ -105,3 +105,7 @@ is_active flag implementation
 Implement the Unity Catalog
 
 Right now our catalog is a hive metastore which is local
+___________________
+___________________
+
+All the resource used in this project is attaced as a zip file
